@@ -1,4 +1,4 @@
-# Application de Chat Stream Interne en Java
+# Application messagerie en Java
 ## Description
 Ce projet étudiant consiste à développer une application de chat interne en Java permettant à des employés de communiquer en temps réel. Chaque utilisateur peut poster des messages visibles par tous, et un système de likes permet de mettre en avant les messages populaires. Un score d'actualité est calculé pour chaque message en fonction de son âge et du nombre de likes.
 
